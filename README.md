@@ -1,5 +1,5 @@
 # Game-week-8
-Assignment of week 8
+Extra assignmet of Assignment of week 8
 
-Run with command:
-node SimpleServer.js https://github.com/Panzze94/Game-week-8.git
+Download the files, go to repository and run with command:
+node SimpleServer.js /DoctorGame
